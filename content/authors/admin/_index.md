@@ -1,5 +1,5 @@
 ---
-avatar_filename: danielblaseg.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Entrepreneurial Finance
