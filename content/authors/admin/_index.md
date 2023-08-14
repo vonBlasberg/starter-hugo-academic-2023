@@ -1,11 +1,9 @@
 ---
 avatar_filename: danielblaseg.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Entrepreneurial Finance
+  - Entrepreneurial Marketing
 social:
   - icon: envelope
     icon_pack: fas
